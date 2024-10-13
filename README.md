@@ -4,6 +4,7 @@
 </head>
 <h1 class="bg bg-primary"> Hi there 👋</h1>
 
+I'm a developer frontend
 <!--
 **xxSkylineline/xxSkylineline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
