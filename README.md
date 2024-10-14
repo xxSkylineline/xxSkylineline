@@ -1,13 +1,11 @@
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
-</head>
-<h1 class="bg bg-primary"> Hi there 👋</h1>
+# **Hi! I'm Rafael Martinez** 
 
 I'm a developer frontend
-<a href="https://www.linkedin.com/in/rafael-a-amartinez/">
-<img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+
+---
+
+![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <!--
 **xxSkylineline/xxSkylineline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
