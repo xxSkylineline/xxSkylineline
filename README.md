@@ -1,6 +1,6 @@
 # **Hi! I'm Rafael Martinez** 
 
-I'm a developer frontend
+
 
 ---
 
